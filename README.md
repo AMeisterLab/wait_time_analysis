@@ -41,9 +41,16 @@ I was surprised to find such a significant difference in wait times before and a
 
 ![TuesdayBox](https://github.com/user-attachments/assets/28f2370d-5b8b-4650-bc42-dce6c2497de6) ![TuesdayScatter](https://github.com/user-attachments/assets/6f98c2c0-020b-4e83-923e-4b7f3de48b59)
 
+![ThursdayBox](https://github.com/user-attachments/assets/71ded5b9-a283-491e-878f-8a0d2a2b85b7) ![ThursdayScatter](https://github.com/user-attachments/assets/ae3d2495-610c-4815-9acb-b60b7ac14363)
+
+ ![SaturdayBox](https://github.com/user-attachments/assets/be720f55-1d57-410c-919d-10754c08e02e) ![SaturdayScatter](https://github.com/user-attachments/assets/b0380d95-6ba0-49bd-b302-27ee18661347)
 
 
 **Client Messaging Flyer:** I created a flyer in multiple languages that communicates to our clients that arriving later can significantly reduce their wait time, aiming to ease the pressure on our volunteers and improve the overall experience.
+
+![Thursday_Saturday English](https://github.com/user-attachments/assets/e169dd4f-3d38-4c44-9998-ae4e05be12c6)
+![Thursday_Saturday Spanish](https://github.com/user-attachments/assets/44e29a0c-bd96-49a4-a9cd-8af15ddebbe3)
+
 
 **Main Takeaways**
 
