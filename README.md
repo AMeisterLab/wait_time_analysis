@@ -36,9 +36,9 @@ I was surprised to find such a significant difference in wait times before and a
 **Bar Charts:** These charts illustrate the number of people arriving per 15 minute increment (left) and before and after the official distribution start time (right). They clearly highlight the spike in arrivals just before opening, reinforcing the need for targeted communication about when to come for shorter wait times. Particularly on Thursdays when, on average, 46% (127) of all the clients served arrive prior to the distribution start time.
 
 
-<img src="https://github.com/user-attachments/assets/ae2173e3-71d6-4a0a-a613-05d22f4e4bea" width="250">
+<img src="https://github.com/user-attachments/assets/ae2173e3-71d6-4a0a-a613-05d22f4e4bea" width="325">
 
-<img src="https://github.com/user-attachments/assets/f7e00496-98e5-47eb-90c9-a55c724a76a2" width="325">
+<img src="https://github.com/user-attachments/assets/f7e00496-98e5-47eb-90c9-a55c724a76a2" width="415">
 
 **Box and Whisker + Scatter Plots:** These visuals showcase the distribution of wait times as a function of arrival time and order. The wide range of wait times before the distribution starts is primarily due to the lottery system we use, which adds unpredictability. You'll notice that wait times become much more consistent and lower as time goes on after opening.
 
