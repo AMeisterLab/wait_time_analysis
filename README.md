@@ -8,13 +8,13 @@ The motivation for this project came from my own experiences at the pantry. With
 
 **Key Takeaways**
 
-	Wait times range from 1 to 89 minutes, with an average of 45 minutes.
+  - Wait times range from 1 to 89 minutes, with an average of 45 minutes.
 
-	Arriving before 10:30 AM on Thursdays and Saturdays and before 5 pm on Tuesdays generally leads to longer waits compared to later arrivals.
+  - Arriving before 10:30 AM on Thursdays and Saturdays and before 5 pm on Tuesdays generally leads to longer waits compared to later arrivals.
 
-	At peak times there are over 100 clients (plus other guests) in waiting. The pantry parking lot holds ~20 vehicles, placing significant strain on the surrounding roads and neighborhood.
+  - At peak times there are over 100 clients (plus other guests) in waiting. The pantry parking lot holds ~20 vehicles, placing significant strain on the surrounding roads and neighborhood.
 
-	There is a trend of more clients arriving early on Thursdays compared to other distribution days.
+  - There is a trend of more clients arriving early on Thursdays compared to other distribution days.
 
 
 **Dataset Details**
@@ -33,20 +33,20 @@ I was surprised to find such a significant difference in wait times before and a
 
 **Visuals and Insights**
 
-Bar Charts: These charts illustrate the number of people arriving per 15 minute increment (left) and before and after the official distribution start time (right). They clearly highlight the spike in arrivals just before opening, reinforcing the need for targeted communication about when to come for shorter wait times. Particularly on Thursdays when, on average, 46% (127) of all the clients served arrive prior to the distribution start time.
+**Bar Charts:** These charts illustrate the number of people arriving per 15 minute increment (left) and before and after the official distribution start time (right). They clearly highlight the spike in arrivals just before opening, reinforcing the need for targeted communication about when to come for shorter wait times. Particularly on Thursdays when, on average, 46% (127) of all the clients served arrive prior to the distribution start time.
 
-Box and Whisker + Scatter Plots: These visuals showcase the distribution of wait times as a function of arrival time and order. The wide range of wait times before the distribution starts is primarily due to the lottery system we use, which adds unpredictability. You'll notice that wait times become much more consistent and lower as time goes on after opening.
+**Box and Whisker + Scatter Plots:** These visuals showcase the distribution of wait times as a function of arrival time and order. The wide range of wait times before the distribution starts is primarily due to the lottery system we use, which adds unpredictability. You'll notice that wait times become much more consistent and lower as time goes on after opening.
 
-Client Messaging Flyer: I created a flyer in multiple languages that communicates to our clients that arriving later can significantly reduce their wait time, aiming to ease the pressure on our volunteers and improve the overall experience.
+**Client Messaging Flyer:** I created a flyer in multiple languages that communicates to our clients that arriving later can significantly reduce their wait time, aiming to ease the pressure on our volunteers and improve the overall experience.
 
 **Main Takeaways**
 
 -	**Peak Times Need Attention**
-o	  Understanding peak arrival times allows for better planning and can help manage volunteer resources more effectively.
+-	  Understanding peak arrival times allows for better planning and can help manage volunteer resources more effectively.
 -	**Timing Matters**
-o	Clients who arrive later enjoy shorter wait times, a message that can be easily communicated to improve the overall flow of visitors.
+-	  Clients who arrive later enjoy shorter wait times, a message that can be easily communicated to improve the overall flow of visitors.
 -	**Community Impact**
-o	By sharing these insights, we hope to create a better experience for clients and volunteers alike, showing how data can lead to tangible improvements in community services.
+-	  By sharing these insights, we hope to create a better experience for clients and volunteers alike, showing how data can lead to tangible improvements in community services.
 
 **Conclusion and Personal Reflections**
 
