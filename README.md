@@ -41,7 +41,9 @@ I was surprised to find such a significant difference in wait times before and a
 
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/fc640d50-1686-411a-aa05-88809dbaf204" />
 
+
 <img width="431" alt="image" src="https://github.com/user-attachments/assets/e1e811ea-2a3c-4c01-9a5b-baace4c35d4e" />
+
 
 <img width="431" alt="image" src="https://github.com/user-attachments/assets/542837e2-28e8-4f9c-99b0-4781d25fde34" />
 
