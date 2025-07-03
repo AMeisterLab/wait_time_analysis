@@ -41,12 +41,9 @@ I was surprised to find such a significant difference in wait times before and a
 
 **Main Takeaways**
 
--	**Peak Times Need Attention**
--	  Understanding peak arrival times allows for better planning and can help manage volunteer resources more effectively.
--	**Timing Matters**
--	  Clients who arrive later enjoy shorter wait times, a message that can be easily communicated to improve the overall flow of visitors.
--	**Community Impact**
--	  By sharing these insights, we hope to create a better experience for clients and volunteers alike, showing how data can lead to tangible improvements in community services.
+-	**Peak Times Need Attention:** Understanding peak arrival times allows for better planning and can help manage volunteer resources more effectively.
+-	**Timing Matters:** Clients who arrive later enjoy shorter wait times, a message that can be easily communicated to improve the overall flow of visitors.
+-	**Community Impact:** By sharing these insights, we hope to create a better experience for clients and volunteers alike, showing how data can lead to tangible improvements in community services.
 
 **Conclusion and Personal Reflections**
 
