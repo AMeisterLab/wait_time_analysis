@@ -39,13 +39,9 @@ I was surprised to find such a significant difference in wait times before and a
 
 **Box and Whisker + Scatter Plots:** These visuals showcase the distribution of wait times as a function of arrival time and order. The wide range of wait times before the distribution starts is primarily due to the lottery system we use, which adds unpredictability. You'll notice that wait times become much more consistent and lower as time goes on after opening.
 
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/fc640d50-1686-411a-aa05-88809dbaf204" />
+![TuesdayBox](https://github.com/user-attachments/assets/28f2370d-5b8b-4650-bc42-dce6c2497de6) ![TuesdayScatter](https://github.com/user-attachments/assets/6f98c2c0-020b-4e83-923e-4b7f3de48b59)
 
 
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/e1e811ea-2a3c-4c01-9a5b-baace4c35d4e" />
-
-
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/542837e2-28e8-4f9c-99b0-4781d25fde34" />
 
 **Client Messaging Flyer:** I created a flyer in multiple languages that communicates to our clients that arriving later can significantly reduce their wait time, aiming to ease the pressure on our volunteers and improve the overall experience.
 
